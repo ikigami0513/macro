@@ -16,7 +16,7 @@ This software is written for azerty keyboard. You may be change value in macro.p
   6 - restart your computer. Your macro finally work.
   
 # Update command.json without restart your computer
-  1 - update your command.json and save it.
-  2 - press echap key in your macro keyboard.
-  3 - close the window that has just appeared.
-  4 - that's all
+  1 - update your command.json and save it.<br/>
+  2 - press echap key in your macro keyboard.<br/>
+  3 - close the window that has just appeared.<br/>
+  4 - that's all<br/>
