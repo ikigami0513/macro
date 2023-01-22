@@ -13,7 +13,7 @@ If you have any question, you can dm me on discord at Iki#0513.
   <b>WARNING : leave the 0x in front of the value.</b><br/>
   4 - now, open command.json. In this file, write your bash command associated with each key.<br/>
   <b>WARNING : don't delete key in command.json file even if there are no associated commands.</b><br/>
-  5 - now, press win + r on your main keyboard and write in the window that has just appeared : shell:startup. In this folder, create shortcut to the start.vbs file.
+  5 - now, press win + r on your main keyboard and write in the window that has just appeared : shell:startup. In this folder, create shortcut to the start.vbs file.<br/>
   6 - restart your computer. Your macro finally work.
   
 # Update command.json without restart your computer
