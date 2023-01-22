@@ -1,6 +1,7 @@
 # Macro
 Macro software write in python.
 This software is written for azerty keyboard. You may be change value in macro.py for it to work with qwerty keyboard.
+If you have any question, you can dm me on discord at Iki#0513.
 
 # Installation
   1 - install https://zadig.akeo.ie/# .<br/>
